@@ -1,0 +1,58 @@
+body{
+    background-color: white;
+}
+.row{
+    color: blue;
+    text-align: center;
+}
+
+p.centrado {
+    text-align: center;
+}
+
+.submit{
+    width: 8em;
+    height: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #00438D;
+    border: 2px solid white;
+}
+.caja{
+    display: block;
+}
+.caja label{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.caja input{
+    width: 10em;
+    height: 2em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+
+.tabla{
+border-collapse: collapse; 
+font-family: 'Quicksand', sans-serif;
+
+}
+table tr th{
+    border: 1px solid #D5D9D9;
+    width: 100px;
+    height: 25px;
+    color: white;
+    background-color: #00438D;
+}
+
+/* Para el estilo de las nuevas celdas */
+td {
+    border: 1px solid #D5D9D9;
+    width: 100px;
+    height: 25px;
+}
+
+.tablita{
+    display: inline-block;    
+}
